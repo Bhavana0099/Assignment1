@@ -1,5 +1,4 @@
-# Assignment1
-## Welcome to Vecta Corp. – 24/7 365 turnkey vSolutions for your agile ebusiness
+# Welcome to Vecta Corp. – 24/7 365 turnkey vSolutions for your agile ebusiness
 >**Vecta Corporation** provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction
 
 ### Our Solutions are:
