@@ -25,7 +25,7 @@
     <br>   IX Inc.
 
 #### Contact Vecta Corporation
-  **Vecta Corporation**<br>
+ >**Vecta Corporation**<br>
     555 Technology Place  
     San Diego, CA 92115  
     Tel. (800) 555-5555  
